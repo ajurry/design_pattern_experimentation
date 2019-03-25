@@ -22,3 +22,7 @@
     #[...]
     #       Documentation/foo.html
     #[...]
+
+*.o
+*.out
+*.make
