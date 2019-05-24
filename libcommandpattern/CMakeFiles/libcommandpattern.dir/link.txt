@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/liblibcommandpattern.a  CMakeFiles/libcommandpattern.dir/source/command_move_backward.cpp.o CMakeFiles/libcommandpattern.dir/source/command_move_forward.cpp.o CMakeFiles/libcommandpattern.dir/source/command_move_left.cpp.o CMakeFiles/libcommandpattern.dir/source/command_move_right.cpp.o CMakeFiles/libcommandpattern.dir/source/command_null.cpp.o CMakeFiles/libcommandpattern.dir/source/keyboard_invoker.cpp.o
+/usr/bin/ranlib ../lib/liblibcommandpattern.a
